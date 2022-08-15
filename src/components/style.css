@@ -1,0 +1,33 @@
+.ui.container{
+    background-color: grey
+}
+
+.search-bar.ui.segment{
+    /* border: 2px solid red; */
+    top: 15px;
+    margin: 0px  0px;
+    
+}
+
+.ui.segment{
+    background-color: grey;
+}
+
+.ui.list>.item .header {
+    color: black;
+}
+
+.ui.header {
+    background-color: grey;
+}
+
+.ui.grid>.row>.column {
+    margin: 20px 0px;
+}
+
+.eleven.wide.column{
+    position: absolute;
+    left: 0px;
+    top: 20px;
+    
+}
